@@ -1,0 +1,19 @@
+{
+  "name": "a-bloglist-app",
+  "version": "1.0.0",
+  "description": "a blog list applicatin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c1b3rt00lk1t/a-bloglist-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c1b3rt00lk1t/a-bloglist-app/issues"
+  },
+  "homepage": "https://github.com/c1b3rt00lk1t/a-bloglist-app#readme"
+}
