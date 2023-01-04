@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/c1b3rt00lk1t/a-bloglist-app/issues"
   },
-  "homepage": "https://github.com/c1b3rt00lk1t/a-bloglist-app#readme",
-  "devDependencies": {
-    "nodemon": "^2.0.20"
-  }
+  "homepage": "https://github.com/c1b3rt00lk1t/a-bloglist-app#readme"
 }
